@@ -1,1 +1,2 @@
-print "Hello world Replit"
+print ("Hello world Replit")
+print ("Second Hello")
